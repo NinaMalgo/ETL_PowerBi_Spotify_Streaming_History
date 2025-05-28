@@ -110,7 +110,7 @@ Po wykonaniu joba delta, Power BI automatycznie pobiera zaktualizowane dane (kol
 
 ---
 
-## 👤 Autor
+## Autor
 **Nina Lange**  
  ninamalgolange@gmail.com
  [LinkedIn](https://www.linkedin.com/in/ninalange-/)  
