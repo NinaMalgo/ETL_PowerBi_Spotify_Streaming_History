@@ -39,7 +39,8 @@ Projekt stanowi przykład integracji procesów ładowania danych z wizualizacją
 ![screenshots](Job 1 - initial load.png)
 ![screenshots](Job 2 - core dimensions tables.png)
 ![screenshots](transform and load to staging.png)
-![screenshots](initial_load_SQL.png)
+- initial_load_SQL.png
+ [![Job Initial Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/initial_load_SQL.png)
 
 ---
 
@@ -70,7 +71,7 @@ Projekt stanowi przykład integracji procesów ładowania danych z wizualizacją
 ![screenshots](Job 3 - delta load.png)
 ![screenshots](Job 2 - core dimension tables.png)
 ![screenshots](completeETLproces - deltaload.png)
-- delta_load_SQL.png)
+- delta_load_SQL.png
  [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/delta_load_SQL.png)
 ---
 
@@ -100,7 +101,8 @@ Po wykonaniu joba delta, Power BI automatycznie pobiera zaktualizowane dane (kol
 
 ### Zrzut ekranu:
 ![screenshots](initial_load_powerbi.png)
-![screenshots](delta_load_powerbi.png)
+- delta_load_powerbi.png
+ [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/delta_load_powerbi.png)
 ---
 
 ### Video:
