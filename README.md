@@ -102,22 +102,22 @@ Po wykonaniu joba delta, Power BI automatycznie pobiera zaktualizowane dane (kol
 ### Video:
 ![video](DeltaLoad&RefreshPowerBi.mp4)
 
-## 🧪 Możliwe rozszerzenia:
-- 🔄 Delta Load: ładowanie kolejnych nowych danych
-- ⏰ Harmonogram: uruchamianie joba cyklicznie
-- 🧩 Dodanie kolejnych źródeł danych (np. JSON)
-- 🛑 Obsługa błędów i walidacja danych
+## Możliwe rozszerzenia:
+-  Delta Load: ładowanie kolejnych nowych danych
+-  Harmonogram: uruchamianie joba cyklicznie
+-  Dodanie kolejnych źródeł danych (np. JSON)
+-  Obsługa błędów i walidacja danych
 
 ---
 
 ## 👤 Autor
 **Nina Lange**  
-📧 ninamalgolange@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/ninalange-/)  
-📁 [Portfolio GitHub](https://github.com/NinaMalgo)
+ ninamalgolange@gmail.com
+ [LinkedIn](https://www.linkedin.com/in/ninalange-/)  
+ [Portfolio GitHub](https://github.com/NinaMalgo)
 
 ---
 
-## ✅ Status projektu
-✅ Initial Load + Raport Power BI – **Zakończono**  
-✅ Delta Load – **wdrożony**  
+##  Status projektu
+ Initial Load + Raport Power BI – **Zakończono**  
+ Delta Load – **wdrożony**  
