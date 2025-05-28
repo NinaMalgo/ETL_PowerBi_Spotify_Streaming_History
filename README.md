@@ -66,8 +66,7 @@ Podgląd w MSSQL - initial_load_SQL.png
 - 'etl_delta/ Job 3 - deltaload.kjb` - job z transformacjami do wykonania kolejnych załadowań danych
 - 'etl_delta/job 2 - core dimension tables.kjb` - job z tworzeniem tabeli faktów i wymiarów w core layer
 - 'etl_delta/ CompleteETLprocess.kjb` - job nadrzędny zawierający połączenie Job 3 i Job 2
-
-
+  
 ### Zrzut joba Delta:
 Job 3 - delta load.png
 ![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%203%20-%20delta%20load.png)
@@ -77,6 +76,8 @@ Job 4 - completeETLproces - deltaload.png
 [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%204%20-%20CompleteETLprocess.png)
 Podgląd w MSSQL - delta_load_SQL.png
  ![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/delta_load_SQL.png)
+
+
 ---
 
 ## Power BI - Raport
@@ -105,9 +106,9 @@ Po wykonaniu joba delta, Power BI automatycznie pobiera zaktualizowane dane (kol
 
 ### Zrzut ekranu:
 -initial_load_powerbi.png
- [![Job Initial Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/initial_load_powerbi.png)
+![Job Initial Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/initial_load_powerbi.png)
 - delta_load_powerbi.png
- [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/delta_load_powerbi.png)
+![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/delta_load_powerbi.png)
 ---
 
 ### Video:
