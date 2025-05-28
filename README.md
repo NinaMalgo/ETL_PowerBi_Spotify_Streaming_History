@@ -108,7 +108,8 @@ Po wykonaniu joba delta, Power BI automatycznie pobiera zaktualizowane dane (kol
 ---
 
 ### Video:
-![video](DeltaLoad&RefreshPowerBi.mp4)
+![video](DeltaLoad&RefreshPowerBi.mp4
+[![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/video/DeltaLoad%26RefreshPowerBi.mp4)
 
 ## Możliwe rozszerzenia:
 -  Delta Load: ładowanie kolejnych nowych danych
