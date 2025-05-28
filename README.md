@@ -61,6 +61,7 @@ Projekt stanowi przykład integracji procesów ładowania danych z wizualizacją
 - 'etl_delta/get last load date-deltaload.ktr` - transformacja do zaladowania danych z staging do core layer (Max > LastLoad)
 - 'etl_delta/uniquerows.kjb` - transformacja usuwania duplikatów
 - 'etl_delta/ Job 3 - deltaload.kjb` - job z transformacjami do wykonania kolejnych załadowań danych
+  [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%203%20-%20delta%20load.png)
 - 'etl_delta/job 2 - core dimension tables.kjb` - job z tworzeniem tabeli faktów i wymiarów w core layer
 - 'etl_delta/ CompleteETLprocess.kjb` - job nadrzędny zawierający połączenie Job 3 i Job 2
 
