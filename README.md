@@ -70,7 +70,7 @@ Podgląd w MSSQL - initial_load_SQL.png
 
 ### Zrzut joba Delta:
 Job 3 - delta load.png
-  [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%203%20-%20delta%20load.png)
+![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%203%20-%20delta%20load.png)
 Job 2 - core dimension tables.png
 ![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%202%20-%20core%20dimensions%20tables.png)
 Job 4 - completeETLproces - deltaload.png
