@@ -23,7 +23,7 @@ Projekt stanowi przykład integracji procesów ładowania danych z wizualizacją
 - Załadunek do bazy danych (tabela faktów i wymiary)
 
 ### Pliki:
-- 'etl_initial/get data from source to staging.kjb` – transformacja z pełnym pierwszym załadowaniem do warstwy staging
+- 'etl_initial/get data from source to staging.ktr` (https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%201%20-%20initial%20load.png) – transformacja z pełnym pierwszym załadowaniem do warstwy staging
 - 'etl_initial/FindLastLoad-initial load.ktr` – transformacja, która za pomocą Set variables wyszukuje nam ostatnią pobraną wartość (tj.maximum) w kolumnie daty
   tabeli znajdującej się w ostatecznej, podstawowej warstwie (core layer). W tym momencie na potrzeby utworzenia core layer, ustawiłam MAX = LastLoad, a nie większe.
 - 'etl_initial/get last load date - initial load.ktr` - transformacja do zaladowania danych z staging do core layer z przygotowaniem pod delta load
