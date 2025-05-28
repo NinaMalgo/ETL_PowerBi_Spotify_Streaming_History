@@ -100,7 +100,8 @@ Po wykonaniu joba delta, Power BI automatycznie pobiera zaktualizowane dane (kol
 - `powerbi_report/Spotify_History.pbix`
 
 ### Zrzut ekranu:
-![screenshots](initial_load_powerbi.png)
+-initial_load_powerbi.png
+ [![Job Initial Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/initial_load_powerbi.png)
 - delta_load_powerbi.png
  [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/delta_load_powerbi.png)
 ---
