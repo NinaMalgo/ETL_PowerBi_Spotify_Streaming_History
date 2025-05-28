@@ -27,7 +27,7 @@ Projekt stanowi przykład integracji procesów ładowania danych z wizualizacją
 - 'etl_initial/FindLastLoad-initial load.ktr` – transformacja, która za pomocą Set variables wyszukuje nam ostatnią pobraną wartość (tj.maximum) w kolumnie daty
   tabeli znajdującej się w ostatecznej, podstawowej warstwie (core layer). W tym momencie na potrzeby utworzenia core layer, ustawiłam MAX = LastLoad, a nie większe.
 - 'etl_initial/get last load date - initial load.ktr` - transformacja do zaladowania danych z staging do core layer z przygotowaniem pod delta load
--  'etl_initial/uniquerows.kjb` - transformacja usuwania duplikatów
+- 'etl_initial/uniquerows.kjb` - transformacja usuwania duplikatów
 - `etl_initial/load and transform.ktr`– transformacja z oczyszczaniem danych 
 - `etl_initial/job 1 - initial_load.kjb` - job z transformacją danych
 - `etl_initial/job 2 - core dimension tables.kjb` - job z tworzeniem tabeli faktów i wymiarów w core layer
