@@ -64,16 +64,18 @@ Podgląd w MSSQL - initial_load_SQL.png
 - 'etl_delta/get last load date-deltaload.ktr` - transformacja do zaladowania danych z staging do core layer (Max > LastLoad)
 - 'etl_delta/uniquerows.kjb` - transformacja usuwania duplikatów
 - 'etl_delta/ Job 3 - deltaload.kjb` - job z transformacjami do wykonania kolejnych załadowań danych
-  [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%203%20-%20delta%20load.png)
 - 'etl_delta/job 2 - core dimension tables.kjb` - job z tworzeniem tabeli faktów i wymiarów w core layer
 - 'etl_delta/ CompleteETLprocess.kjb` - job nadrzędny zawierający połączenie Job 3 i Job 2
- [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%204%20-%20CompleteETLprocess.png)
+
 
 ### Zrzut joba Delta:
-![screenshots](Job 3 - delta load.png)
-![screenshots](Job 2 - core dimension tables.png)
-![screenshots](completeETLproces - deltaload.png)
-- delta_load_SQL.png
+Job 3 - delta load.png
+  [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%203%20-%20delta%20load.png)
+Job 2 - core dimension tables.png
+![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%202%20-%20core%20dimensions%20tables.png)
+Job 4 - completeETLproces - deltaload.png
+ [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%204%20-%20CompleteETLprocess.png)
+Podgląd w MSSQL - delta_load_SQL.png
  [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/delta_load_SQL.png)
 ---
 
