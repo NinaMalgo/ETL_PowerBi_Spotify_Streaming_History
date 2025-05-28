@@ -79,7 +79,7 @@ Podgląd w MSSQL - delta_load_SQL.png
  [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/delta_load_SQL.png)
 ---
 
-## Power BI – Raport sprzedaży
+## Power BI - Raport
 
 Raport został zbudowany na danych zaczytanych przez proces ETL.
 
