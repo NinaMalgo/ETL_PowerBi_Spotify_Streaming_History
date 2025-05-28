@@ -71,7 +71,7 @@ Projekt stanowi przykład integracji procesów ładowania danych z wizualizacją
 ![screenshots](Job 2 - core dimension tables.png)
 ![screenshots](completeETLproces - deltaload.png)
 ![screenshots](delta_load_SQL.png)
-
+ [![Job Delta Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/delta_load_SQL.png)
 ---
 
 ## Power BI – Raport sprzedaży
