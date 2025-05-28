@@ -31,9 +31,9 @@ Projekt stanowi przykład integracji procesów ładowania danych z wizualizacją
 - 'etl_initial/load and transform.ktr`– transformacja z oczyszczaniem danych 
 [![Job Initial Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/transform%20and%20load%20to%20staging.png)
 - 'etl_initial/job 1 - initial_load.kjb` - job z transformacją danych
-  [![Job Initial Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/raw/main/CompleteETL/screenshots/Job%201%20-%20initial%20load.png)](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%201%20-%20initial%20load.png)
+[![Job Initial Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/raw/main/CompleteETL/screenshots/Job%201%20-%20initial%20load.png)](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%201%20-%20initial%20load.png)
 - 'etl_initial/job 2 - core dimension tables.kjb` - job z tworzeniem tabeli faktów i wymiarów w core layer
-  [![Job Initial Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%202%20-%20core%20dimensions%20tables.png)
+[![Job Initial Load](https://github.com/NinaMalgo/ETL_PowerBi_Spotify_Streaming_History/blob/main/CompleteETL/screenshots/Job%202%20-%20core%20dimensions%20tables.png)
 
 
 ### Podgląd joba:
