@@ -91,10 +91,6 @@ Raport został zbudowany na danych zaczytanych przez proces ETL.
 - Długość czasu odtworzeń
 - Dni z najczęstszym odsłuchiwaniem
 
-
-### Plik:
-- `powerbi_report/Spotify History.pbix`
-
 ### Podgląd raportu:
 https://app.powerbi.com/view?r=eyJrIjoiM2I0YWY0YjctNTliMS00NzA2LTgxMzktYTYxNDgwODIxNDFlIiwidCI6ImNlMDkwY2ZlLTkzZGQtNDE1Yy04NDM3LTljZTI3ODNiNGI2MSJ9
 
@@ -102,7 +98,7 @@ https://app.powerbi.com/view?r=eyJrIjoiM2I0YWY0YjctNTliMS00NzA2LTgxMzktYTYxNDgwO
 Po wykonaniu joba delta, Power BI automatycznie pobiera zaktualizowane dane (kolejne rekordy w tabeli faktów i wymiarów). Dzięki temu użytkownik widzi realne zmiany wynikające z działania procesu.
 
 ### Plik:
-Spotify_History.pbix
+- Spotify History.pbix
 
 ### Zrzut ekranu:
 -initial_load_powerbi.png
