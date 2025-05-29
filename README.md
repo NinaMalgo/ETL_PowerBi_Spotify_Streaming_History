@@ -102,7 +102,7 @@ https://app.powerbi.com/view?r=eyJrIjoiM2I0YWY0YjctNTliMS00NzA2LTgxMzktYTYxNDgwO
 Po wykonaniu joba delta, Power BI automatycznie pobiera zaktualizowane dane (kolejne rekordy w tabeli faktów i wymiarów). Dzięki temu użytkownik widzi realne zmiany wynikające z działania procesu.
 
 ### Plik:
-- `powerbi_report/Spotify_History.pbix`
+Spotify_History.pbix
 
 ### Zrzut ekranu:
 -initial_load_powerbi.png
