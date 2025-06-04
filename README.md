@@ -92,7 +92,7 @@ Raport został zbudowany na danych zaczytanych przez proces ETL.
 - Dni z najczęstszym odsłuchiwaniem
 
 ### Podgląd raportu:
-https://app.powerbi.com/view?r=eyJrIjoiM2I0YWY0YjctNTliMS00NzA2LTgxMzktYTYxNDgwODIxNDFlIiwidCI6ImNlMDkwY2ZlLTkzZGQtNDE1Yy04NDM3LTljZTI3ODNiNGI2MSJ9
+https://app.powerbi.com/view?r=eyJrIjoiM2I0YWY0YjctNTliMS00NzA2LTgxMzktYTYxNDgwODIxNDFlIiwidCI6ImNlMDkwY2ZlLTkzZGQtNDE1Yy04NDM3LTljZTI3ODNiNGI2MSJ9&pageName=0b1cd1dba45b5da2aeab
 
 ### Aktualizacja danych po Delta Load:
 Po wykonaniu joba delta, Power BI automatycznie pobiera zaktualizowane dane (kolejne rekordy w tabeli faktów i wymiarów). Dzięki temu użytkownik widzi realne zmiany wynikające z działania procesu.
